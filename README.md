@@ -66,6 +66,7 @@ mapbox.satellite:
 
 
 Instructions:
+
 . Download or clone all the files contained in this repo.
 
 . Create a Mapbox Token
