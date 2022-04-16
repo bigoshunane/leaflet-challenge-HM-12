@@ -2,7 +2,7 @@
 
 # Visualizing Data with Leaflet
 
-The objective of this project is to use data from United States Geological Survey, USGS for short and display multiple and interactive maps with the location and magnitude of earthquakes during the last 7 days around the world.
+The objective of this project is to use data from United States Geological Survey (USGS for short) and display multiple and interactive maps with the location and magnitude of earthquakes during the last 7 days around the world for visualization.
 
 
 # Technologies
