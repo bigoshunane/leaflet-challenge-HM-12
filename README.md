@@ -26,12 +26,9 @@ The project has two steps with different levels of complexity.
 
 Building a single base layer map with one set of data.
 
-Base layer: mapbox.greyscale
-
-Data Layer Source: United States Geological Survey (USGS)
-
 Data: All Earthquakes for the last 7 days
 
+Base layer: mapbox.greyscale:
 ![11](https://user-images.githubusercontent.com/84547558/163663118-e6964fb6-fbab-40f6-9836-4eb886ffa729.png)
 
 
