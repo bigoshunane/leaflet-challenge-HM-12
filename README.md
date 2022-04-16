@@ -49,7 +49,7 @@ Base layer:
 
 
 
-Data: All Earthquakes - Last 7 days
+Data: All Earthquakes for the Last 7 days
 
 Layer 2: Tectonic Plates
 
