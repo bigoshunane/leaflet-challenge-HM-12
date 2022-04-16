@@ -23,6 +23,7 @@ The objective of this project is to use data from United States Geological Surve
 The project has two steps with different levels of complexity.
 
 1. Step-1
+
 Building a single base layer map with one set of data.
 
 Base layer: mapbox.greyscale
@@ -35,6 +36,7 @@ Data: All Earthquakes for the last 7 days
 
 
 2. Step-2
+
 Map to illustrate the relationship between tectonic plates and seismic activity.
 
 Multiple optional and interactive base layers were included.
@@ -56,9 +58,6 @@ Source: Hugo Ahlenius, GIS-and-Cartography Consultant https://github.com/fraxen/
 
 ![22](https://user-images.githubusercontent.com/84547558/163663262-dea83922-27cf-42d4-b326-32821daa7a05.png)![33](https://user-images.githubusercontent.com/84547558/163663264-e46f8fb7-c657-483b-8a89-c575581c66d1.png)![4](https://user-images.githubusercontent.com/84547558/163663266-c073d453-61fa-46e9-a7ef-d1b716473039.png)
 
-
-
-Source: Hugo Ahlenius, GIS-and-Cartography Consultant https://github.com/fraxen/tectonicplates Libraries Required (already included in the index.html file) D3 JavaScript, Leaflet.
 
 Instructions:
 . Download or clone all the files contained in this repo.
