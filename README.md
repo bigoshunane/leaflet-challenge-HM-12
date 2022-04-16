@@ -22,7 +22,7 @@ The objective of this project is to use data from United States Geological Surve
 # Steps
 The project has two steps with different levels of complexity.
 
-1. Step-1
+Step-1
 
 Building a single base layer map with one set of data.
 
@@ -32,7 +32,7 @@ Base layer: mapbox.greyscale:
 ![11](https://user-images.githubusercontent.com/84547558/163663118-e6964fb6-fbab-40f6-9836-4eb886ffa729.png)
 
 
-2. Step-2
+Step-2
 
 Map to illustrate the relationship between tectonic plates and seismic activity.
 
@@ -46,10 +46,6 @@ Base layer:
 . mapbox.greyscale
 
 . mapbox.satellite
-
-
-
-Data: All Earthquakes for the Last 7 days
 
 Layer 2: Tectonic Plates
 
