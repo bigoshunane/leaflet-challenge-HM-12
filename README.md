@@ -4,16 +4,20 @@
 
 The objective of this project is to use data from United States Geological Survey, USGS for short and display multiple and interactive maps with the location and magnitude of earthquakes during the last 7 days around the world.
 
-The Javascript-Leaflet library, HTML, CSS, Bootstrap, and Javascript were used in the project. The Mapbox-API was also used to load the base maps.
-
-
-
 
 # Technologies
 
-    . JavaScript (Leaflet, D3)
+    . JavaScript 
+    
+    . (Leaflet, D3)
+    
     . HTML
+    
     . CSS
+    
+    . Mapbox-API
+    
+    . Bootstrap
 
 # Steps
 The project has two steps with different levels of complexity.
