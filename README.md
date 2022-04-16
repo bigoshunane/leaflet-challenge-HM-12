@@ -44,19 +44,21 @@ An additional dataset and plot were included and they can be activated and deact
 
 Base layer:
 
+. mapbox.outdoors
+
 . mapbox.greyscale
 
 . mapbox.satellite
 
-. mapbox.outdoors
+
 
 Data: All Earthquakes - Last 7 days
 
 Layer 2: Tectonic Plates
 
 Source: Hugo Ahlenius, GIS-and-Cartography Consultant https://github.com/fraxen/tectonicplates Libraries Required (already included in the index.html file) D3 JavaScript, Leaflet.
-
-![22](https://user-images.githubusercontent.com/84547558/163663262-dea83922-27cf-42d4-b326-32821daa7a05.png)![33](https://user-images.githubusercontent.com/84547558/163663264-e46f8fb7-c657-483b-8a89-c575581c66d1.png)![4](https://user-images.githubusercontent.com/84547558/163663266-c073d453-61fa-46e9-a7ef-d1b716473039.png)
+mapbox.outdoors:
+![22](https://user-images.githubusercontent.com/84547558/163663262-dea83922-27cf-42d4-b326-32821daa7a05.png) mapbox.greyscale:![33](https://user-images.githubusercontent.com/84547558/163663264-e46f8fb7-c657-483b-8a89-c575581c66d1.png)!mapbox.satellite:[4](https://user-images.githubusercontent.com/84547558/163663266-c073d453-61fa-46e9-a7ef-d1b716473039.png)
 
 
 Instructions:
