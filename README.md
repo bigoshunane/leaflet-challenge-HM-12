@@ -59,7 +59,7 @@ mapbox.satellite:
 ![4](https://user-images.githubusercontent.com/84547558/163663266-c073d453-61fa-46e9-a7ef-d1b716473039.png)
 
 
-Instructions:
+Usecase-Instructions:
 -  Download or clone all the files contained in this repo.
 -  Create a Mapbox Token
 -  Include your Mapbox Token in the /Leaflet-Step-1/static/js/config.js and /Leaflet-Step-2/static/js/config.js files.
