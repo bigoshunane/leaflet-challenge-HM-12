@@ -10,21 +10,16 @@ The USGS is interested in building a new set of tools that will allow them to vi
 The objective of this project is to use data from United States Geological Survey (USGS for short) and display multiple and interactive maps with the location and magnitude of earthquakes during the last 7 days around the world for visualization.
 
 
-# Technologies
+### Technologies
 
-    . JavaScript 
-    
-    . (Leaflet, D3)
-    
-    . HTML
-    
-    . CSS
-    
-    . Mapbox-API
-    
-    . Bootstrap
+   -  JavaScript 
+   -  (Leaflet, D3)
+   -  HTML
+   -  CSS
+   -  Mapbox-API
+   -  Bootstrap
 
-# Steps
+### Steps
 The project has two steps with different levels of complexity.
 
 Step-1
@@ -46,11 +41,9 @@ An additional dataset and plot were included and they can be activated and deact
 
 Base layer:
 
-. mapbox.outdoors
-
-. mapbox.greyscale
-
-. mapbox.satellite
+-  mapbox.outdoors
+-  mapbox.greyscale
+-  mapbox.satellite
 
 Layer 2: Tectonic Plates
 
@@ -67,15 +60,10 @@ mapbox.satellite:
 
 
 Instructions:
-
-. Download or clone all the files contained in this repo.
-
-. Create a Mapbox Token
-
-. Include your Mapbox Token in the /Leaflet-Step-1/static/js/config.js and /Leaflet-Step-2/static/js/config.js files.
-
-. Run a python -m http.server or any other method for this purpose.
-
-. Load the Leaflet-Step-1/index.html and Leaflet-Step-2/index.html files.
+-  Download or clone all the files contained in this repo.
+-  Create a Mapbox Token
+-  Include your Mapbox Token in the /Leaflet-Step-1/static/js/config.js and /Leaflet-Step-2/static/js/config.js files.
+-  Run a python -m http.server or any other method for this purpose.
+-  Load the Leaflet-Step-1/index.html and Leaflet-Step-2/index.html files.
 
 © 2021  Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
